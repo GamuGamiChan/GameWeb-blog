@@ -14,11 +14,17 @@ hideComments = false
 draft = true
 +++
 
+## Notes:
+
 *คนไทยใช้แปลภาษาเลย ไม่อยากมาพิมพ์ไทย :p*
 
 I was planning to post this after M.4 where the Gifted and DS classrooms are more separated but who cares :/
 
 There are also no chat logs here since it was either lost, deleted, or can't be exported (Signal). This is not me try to be secretive or anything just there nothing to export. And this is like 6 months ago and some stuff is already forgotten.
+
+This is not written to be in an neutral point of view. See [WP:NPOV](https://en.wikipedia.org/w/index.php?title=Wikipedia:NPOV) in English or [in Thai](https://th.wikipedia.org/wiki/%E0%B8%A7%E0%B8%B4%E0%B8%81%E0%B8%B4%E0%B8%9E%E0%B8%B5%E0%B9%80%E0%B8%94%E0%B8%B5%E0%B8%A2:%E0%B8%A1%E0%B8%B8%E0%B8%A1%E0%B8%A1%E0%B8%AD%E0%B8%87%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B9%80%E0%B8%9B%E0%B9%87%E0%B8%99%E0%B8%81%E0%B8%A5%E0%B8%B2%E0%B8%87).
+
+Klaus, That I usually write as "Clause" is spelled correctly here
 
 ---
 
@@ -35,3 +41,5 @@ After i brought this up, she somewhat says that she was not telling the truth th
 Then we somehow go back to normal but in my mind it was screaming that this is probably going to bad fast af. In my mind I was like "If your gonna fucking dump me for your crush, Sure. I'll dump you too." situation going on.
 
 I know for a fact that she was getting closer to her crush where is was affecting me. After a bit I decided to block her since my mental state with her to getting worse because she was being somewhat selfish.
+
+Anyhow after I blocked her, She decided to ask Klaus
