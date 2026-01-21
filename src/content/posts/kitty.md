@@ -1,9 +1,9 @@
 +++
 title = "The Kitty Drama"
 date = "2026-01-21T12:10:15+07:00"
-#dateFormat = "2006-01-02" # This value can be configured for per-post date formatting
+#dateFormat = "2006-01-02" 
 author = ""
-authorTwitter = "" #do not include @
+authorTwitter = "" 
 cover = ""
 tags = ["drama"]
 keywords = ["Kitty"]
@@ -11,35 +11,54 @@ description = "The drama thing."
 showFullContent = false
 readingTime = true
 hideComments = false
-draft = true
+draft = false
 +++
 
 ## Notes:
 
 *คนไทยใช้แปลภาษาเลย ไม่อยากมาพิมพ์ไทย :p*
 
-I was planning to post this after M.4 where the Gifted and DS classrooms are more separated but who cares :/
+I was planning to post this after M.4, once the Gifted and DS classrooms are more separated, but at this point, who cares?
 
-There are also no chat logs here since it was either lost, deleted, or can't be exported (Signal). This is not me try to be secretive or anything just there nothing to export. And this is like 6 months ago and some stuff is already forgotten.
+Please note: there are no chat logs included here. They were either lost, deleted, or could not be exported (due to Signal’s privacy features). I’m not trying to be secretive; there is simply nothing left to export. This all happened about six months ago, so some finer details may have been forgotten.
 
-This is not written to be in an neutral point of view. See [WP:NPOV](https://en.wikipedia.org/w/index.php?title=Wikipedia:NPOV) in English or [in Thai](https://th.wikipedia.org/wiki/%E0%B8%A7%E0%B8%B4%E0%B8%81%E0%B8%B4%E0%B8%9E%E0%B8%B5%E0%B9%80%E0%B8%94%E0%B8%B5%E0%B8%A2:%E0%B8%A1%E0%B8%B8%E0%B8%A1%E0%B8%A1%E0%B8%AD%E0%B8%87%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B9%80%E0%B8%9B%E0%B9%87%E0%B8%99%E0%B8%81%E0%B8%A5%E0%B8%B2%E0%B8%87).
+This post is **not** written from a neutral point of view. For context on neutrality, see [WP:NPOV](https://en.wikipedia.org/wiki/Wikipedia:Neutral_point_of_view) in English or [in Thai](https://th.wikipedia.org/wiki/วิกิพีเดีย:มุมมองที่เป็นกลาง).
 
-Klaus, That I usually write as "Clause" is spelled correctly here
+*Note: Klaus (whom I usually write as "Clause") is spelled correctly in this post.*
 
 ---
 
-So if your not living under a rock, you should know that I and Kitty is not good relations. It a chain of events that had driven me insane to the point of ending the relations.
+If you haven’t been living under a rock, you probably know that Kitty and I are not on good terms. It was a chain of events that drove me insane to the point of ending the relationship entirely.
 
-Starting at the beginning when the old lunch group is still there near the cafe and that's where I was eating lunch regularly. Kitty would sometimes drop in the group (most likely cus her friends were there and I'm just being a side character)
+### The Beginning
+It started back when the old lunch group still gathered near the cafe; I used to eat there regularly. Kitty would sometimes drop into the group (likely because her friends were there and I was just a "side character" at the time).
 
-One day, I decided to try befriend Kitty so I DMed her on her shop account (I didn't know her personal account at the time.) and she did reply back and then talked a bit and then she sent me her personal account.
+One day, I decided to try to befriend her, so I DMed her shop account (I didn't know her personal account yet). She replied, we talked for a bit, and she eventually gave me her personal account.
 
-Thing was going fine for the most part and nothing seems out of the ordinary. After around the 2/3 mark I started to notice things starting to go downhill (This is around the time she starts crushing on the now BF. At this point I did not know she was crushing.). Whereby she seems to not talking with me? and starting selfishly telling me that I was still in good hands with her.
+### The Shift
+Things were fine for the most part, and nothing seemed out of the ordinary. However, around the two-thirds mark, I noticed things starting to go downhill. This was around the time she started crushing on her current boyfriend (though I didn't know she had a crush at the time). 
 
-After i brought this up, she somewhat says that she was not telling the truth the whole time and was just trying to make me not go away. So I kinda raged after than.
+She stopped talking to me as much and started selfishly telling me that I was "still in good hands" with her. When I finally brought this up, she admitted she hadn't been telling the truth the whole time and was only saying things to keep me from leaving. I was pretty furious after that.
 
-Then we somehow go back to normal but in my mind it was screaming that this is probably going to bad fast af. In my mind I was like "If your gonna fucking dump me for your crush, Sure. I'll dump you too." situation going on.
+We somehow went back to "normal," but my mind was screaming that this was going to end badly. I felt like I was in a situation where if she was going to dump our friendship for a crush, I would just dump the friendship first.
 
-I know for a fact that she was getting closer to her crush where is was affecting me. After a bit I decided to block her since my mental state with her to getting worse because she was being somewhat selfish.
+### The Breaking Point
+I knew for a fact that her getting closer to her crush was affecting our dynamic. Eventually, I decided to block her because my mental state was deteriorating due to her behavior.
 
-Anyhow after I blocked her, She decided to ask Klaus
+After I blocked her, she asked Klaus to reach out to me just to say "fuck you" on her behalf. I found it pathetic and blocked Klaus as well.
+
+### The Confrontation
+Nothing happened for about three months. Then, during a random lunch break, Kitty tried to get my attention by calling my name. I ignored the first few calls, but I eventually caved. 
+
+She didn't explain herself, resolve the drama, or say anything useful. Instead, she said something along the lines of: *"Stop talking shit to my boyfriend or I'll ruin your reputation with the girls in Room 1,"* and then she just walked away. 
+
+### Present Day
+So, here we are. I’m posting this a month ahead of my original M.4 plan. 
+
+I’ll say this: she is by far the worst person I have ever met. She has driven me to the brink of insanity. The only person who comes close is Aya, who single-handedly ruined my reputation.
+
+Judging by the tone of the message Klaus sent, she likely has a very different version of this story. Whichever side you choose to believe isn't my concern—if you take her side, that’s your risk to manage.
+
+This drama is over. I will not seek or accept any further contact with her again.
+
+---
