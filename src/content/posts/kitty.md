@@ -62,3 +62,17 @@ Judging by the tone of the message Klaus sent, she likely has a very different v
 This drama is over. I will not seek or accept any further contact with her again.
 
 ---
+
+A friendship built on lies is like building a house on sand, no matter how much you try to hold it together, it crumbles. Fake promises and false hopes swirl around me like a storm I can’t escape, yet I stay silent. I keep everything to myself, letting it fester. Sometimes, it’s almost a cruel kind of entertainment to look into your eyes when you’re lying. I see it so clearly. You think you’re painting a masterpiece, but all I see are the cracks in your facade. Do you really believe I don’t know?
+
+It hurts, god, it hurts. Every lie cuts deeper, like tiny paper cuts you don’t even notice until they sting. You think you’re sparing me, but are you really sparing me, or is it just easier for you? Are these lies for my sake, or are they your way of brushing off guilt, of avoiding the weight of accountability? You’re not protecting me, you’re building a web of falsehoods to protect yourself.
+
+You lie to keep me in your life, to hide who you really are. But the truth is, I’d rather see the real you, even if it means learning I don’t matter as much as I thought. At least then I’d know. At least then I could move on, like a bird released from a cage it didn’t even realize it was trapped in. But no, instead you’ve kept me in this illusion, dangling me by threads of deceit, selfishly hoping I won’t see the truth and leave.
+
+Your lies aren’t white lies, they’re shadows in the corners of a room. They creep, they linger, and they grow darker with every unspoken truth. You think logic can sweep them away, but emotions aren’t something you can reason through. Your excuses are just smoke and mirrors, and I’m done being the fool staring into the haze, hoping to see something real.
+
+You could have been honest, you could have let me go, but instead, you’ve chosen to hold on with false promises, like gripping sand and wondering why it slips through your fingers. It’s not okay. I’m not just a name on your list of friends, I’m someone with feelings, someone who deserves honesty.
+
+I hope one day you realize that keeping someone through lies isn’t love or friendship, it’s selfishness, and selfishness destroys everything it touches.
+
+---
