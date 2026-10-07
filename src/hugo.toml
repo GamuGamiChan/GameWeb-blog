@@ -1,5 +1,5 @@
 baseURL = 'https://blog.thapat.me'
-languageCode = 'en-us'
+locale = 'en-us'
 title = 'GameBlog'
 
 [module]
