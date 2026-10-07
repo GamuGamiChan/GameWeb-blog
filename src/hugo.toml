@@ -1,6 +1,7 @@
 baseURL = 'https://blog.thapat.me'
 locale = 'en-us'
 title = 'GameBlog'
+theme = "terminal"
 
 #[module]
   # this is needed when you fetch the theme as a submodule to your repo.
@@ -21,8 +22,5 @@ title = 'GameBlog'
 # This value can be configured for per-post date formatting
   dateFormat = "02-01-2006"
 
-# Global flag to add noindex meta tag to all pages.
-  noindex = false
-
-# Theme
-  theme = "terminal"
+# Global flag to add noindex meta tag to all pages. This is hardcoded in the them partial/head.html file. Per page noindex can be set in the front matter of each page. If both are set, the page's noindex will take precedence.
+  noindex = true
