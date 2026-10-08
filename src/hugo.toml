@@ -22,5 +22,5 @@ theme = "terminal"
 # This value can be configured for per-post date formatting
   dateFormat = "02-01-2006"
 
-# Global flag to add noindex meta tag to all pages. This is hardcoded in the them partial/head.html file. Per page noindex can be set in the front matter of each page. If both are set, the page's noindex will take precedence.
+# Global flag to add noindex meta tag to all pages. This is hardcoded in the partial/head.html file. Per page noindex can be set in the front matter of each page. If both are set, the page's noindex will take precedence.
   noindex = true
